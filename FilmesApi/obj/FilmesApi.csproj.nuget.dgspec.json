@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus Oliveira\\Desktop\\dotnet-api-Aula-3\\FilmesApi\\FilmesApi.csproj": {}
+    "C:\\Users\\Matheus Oliveira\\Desktop\\dotnetApi\\FilmesApi\\FilmesApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus Oliveira\\Desktop\\dotnet-api-Aula-3\\FilmesApi\\FilmesApi.csproj": {
+    "C:\\Users\\Matheus Oliveira\\Desktop\\dotnetApi\\FilmesApi\\FilmesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus Oliveira\\Desktop\\dotnet-api-Aula-3\\FilmesApi\\FilmesApi.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Oliveira\\Desktop\\dotnetApi\\FilmesApi\\FilmesApi.csproj",
         "projectName": "FilmesApi",
-        "projectPath": "C:\\Users\\Matheus Oliveira\\Desktop\\dotnet-api-Aula-3\\FilmesApi\\FilmesApi.csproj",
+        "projectPath": "C:\\Users\\Matheus Oliveira\\Desktop\\dotnetApi\\FilmesApi\\FilmesApi.csproj",
         "packagesPath": "C:\\Users\\Matheus Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus Oliveira\\Desktop\\dotnet-api-Aula-3\\FilmesApi\\obj\\",
+        "outputPath": "C:\\Users\\Matheus Oliveira\\Desktop\\dotnetApi\\FilmesApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,20 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
