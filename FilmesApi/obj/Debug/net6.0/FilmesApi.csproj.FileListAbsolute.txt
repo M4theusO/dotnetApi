@@ -39,3 +39,13 @@ C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\obj\Debug\net6.0\refint\Fi
 C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
 C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
 C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\Matheus Oliveira\Desktop\dotnetApi\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
